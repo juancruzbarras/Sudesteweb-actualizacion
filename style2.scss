@@ -1,0 +1,22 @@
+.body-opinion {
+    background-color:black;
+
+}
+.titulo-opinion {
+    font-family: "Goldman", cursive;
+    font-size: 40px;
+    color:coral;
+}
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 75%;
+}
