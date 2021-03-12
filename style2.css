@@ -2,20 +2,20 @@
   background-color: black;
 }
 
-.titulo-opinion {
+.body-opinion .titulo-opinion {
   font-family: "Goldman", cursive;
   font-size: 40px;
   color: coral;
 }
 
-.embed-container {
+.body-opinion .embed-container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
 }
 
-.embed-container iframe {
+.body-opinion .embed-container iframe {
   position: absolute;
   top: 0;
   left: 0;
